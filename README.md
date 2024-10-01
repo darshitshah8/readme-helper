@@ -59,19 +59,52 @@ This is a <sup>superscript</sup> text
 - [ ] Task 3
 
 
-## NOTE , TIP , WARNING , CAUTION , IMPORTANT
+# TOAST MESSAGE
 
+### - NOTES
+```
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
+```
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+
+### - TIPS
+```
+> [!TIP]
+> Optional information to help a user be more successful.
+```
 
 > [!TIP]
 > Optional information to help a user be more successful.
 
+
+### - IMPORTANT
+```
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+```
+
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
+
+### - WARNING
+```
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+```
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+
+### - CAUTION
+```
+> [!CAUTION]
+> Negative potential consequences of an action.
+```
 
 > [!CAUTION]
 > Negative potential consequences of an action.
