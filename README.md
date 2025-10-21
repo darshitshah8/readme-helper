@@ -19,6 +19,10 @@ This is a <sup>superscript</sup> text
 
 ---
 
+## Checkbox
+> - [ ] Todo
+> - [X] Completed 
+
 ## Quote
 
 > Text that is a quote
