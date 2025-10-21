@@ -70,6 +70,7 @@ This is a <sup>superscript</sup> text
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 ```
+Output :
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
@@ -79,7 +80,7 @@ This is a <sup>superscript</sup> text
 > [!TIP]
 > Optional information to help a user be more successful.
 ```
-
+Output : 
 > [!TIP]
 > Optional information to help a user be more successful.
 
@@ -89,7 +90,7 @@ This is a <sup>superscript</sup> text
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 ```
-
+Output : 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
@@ -99,7 +100,7 @@ This is a <sup>superscript</sup> text
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 ```
-
+Output : 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
@@ -109,6 +110,6 @@ This is a <sup>superscript</sup> text
 > [!CAUTION]
 > Negative potential consequences of an action.
 ```
-
+Output : 
 > [!CAUTION]
 > Negative potential consequences of an action.
