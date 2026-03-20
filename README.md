@@ -62,7 +62,9 @@ This is a <sup>superscript</sup> text
 - [ ] User readme file helper
 - [ ] Task 3
 
-
+## Hyper Link 
+- [Darshit Shah](https://github.com/darshitshah8)
+- [My Portfolio](https://darshitshah8.github.io/darshit-shah/)
 # TOAST MESSAGE
 
 ### - NOTES
